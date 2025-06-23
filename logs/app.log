@@ -1,0 +1,4 @@
+2025-06-18 06:34:56,380 - src.frames_util - ERROR - HTTP error while downloading frame 5113 from episode 16: 404 - 404: Not Found
+NoneType: None
+2025-06-18 06:34:56,381 - __main__ - ERROR - Error: Frame 5113 from episode 16 not found.
+2025-06-18 06:34:56,381 - __main__ - ERROR - ✖ Error processing frame
